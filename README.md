@@ -1,1 +1,28 @@
-# To-do-list-app
+# To-Do List App Showcase
+
+Welcome to the showcase of my simple To-Do List app. This app was created as a learning project to practice web development skills and was deployed on Microsoft Azure.
+
+## Overview
+The To-Do List app is a web application that allows you to create and manage your tasks. It provides a clean and intuitive interface for adding, marking as complete, and deleting tasks.
+
+## Features
+- Add tasks with due dates
+- Mark tasks as complete
+- Delete tasks
+- Clean and user-friendly design
+
+## Screenshots
+![Screenshot 1](/screenshots/screenshot1.png)
+![Screenshot 2](/screenshots/screenshot2.png)
+
+## Usage
+You can try the app by visiting the [To-Do List App](https://ashy-flower-04752b210.4.azurestaticapps.net/), which is hosted on Microsoft Azure. Feel free to add, complete, and delete tasks to explore its functionality.
+
+## Deployment
+This project was deployed on [Microsoft Azure](https://azure.microsoft.com/). The app is hosted securely and accessible online for testing and demonstration purposes.
+
+## About
+This app was developed by Matthew Acevedo for educational purposes and as a demonstration of web development skills. It's a simple project and may not have advanced features.
+
+## License
+This project is open-source and is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
