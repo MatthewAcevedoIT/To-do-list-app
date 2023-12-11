@@ -12,7 +12,7 @@ The To-Do List app is a web application that allows you to create and manage you
 - Clean and user-friendly design
 
 ## Screenshots
- <img src="https://imgur.com/a/rHjE9VS" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/aHQggy4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
    
 
 ![Screenshot 2](/screenshots/screenshot2.png)
