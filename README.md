@@ -16,6 +16,7 @@ The To-Do List app is a web application that allows you to create and manage you
  <img src="https://i.imgur.com/al83fFp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <img src="https://i.imgur.com/zSMJG7g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+
 ## Usage
 You can try the app by visiting the [To-Do List App](https://ashy-flower-04752b210.4.azurestaticapps.net/), which is hosted on Microsoft Azure. Feel free to add, complete, and delete tasks to explore its functionality.
 
