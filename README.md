@@ -12,7 +12,9 @@ The To-Do List app is a web application that allows you to create and manage you
 - Clean and user-friendly design
 
 ## Screenshots
-![Screenshot 1](/https://imgur.com/aHQggy4)
+ - https://imgur.com/aHQggy4
+   
+
 ![Screenshot 2](/screenshots/screenshot2.png)
 
 ## Usage
